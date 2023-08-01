@@ -14,4 +14,5 @@ export const LinkBotao = styled.a`
   display: inline-block;
   cursor: pointer;
   margin-top: 24px;
+  transition: all ease 0.2s;
 `
